@@ -1,8 +1,9 @@
-# Business-case-Netflix---Data-Analysis-visualization
+# Business-Case-Netflix-Data Analysis--visualization
 Business Case: Netflix - Data Exploration and Visualization
 
+
+![image](https://github.com/gmrampe/Business-case-Netflix---Data-Analysis-visualization/assets/123885825/9185d3f6-fb49-44c9-b83f-66d04412bc69)
 Netflix Data Exploration and Visualization 📊
-Netflix Logo
 
 Welcome to the Netflix Data Analysis and Visualization project! 🎉 In this repository, we delve into the world of Netflix to uncover valuable insights from their vast library of movies and TV shows. Whether you're a data enthusiast or a Netflix aficionado, this project has something for everyone.
 
